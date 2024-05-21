@@ -1,3 +1,4 @@
+curl -o aa.tar.gz https://github.com/hirotomoki12345/nyan/raw/main/aa.tar.gz
 tar -zxvf aa.tar.gz
 cd aa
 
