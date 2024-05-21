@@ -1,5 +1,5 @@
-curl -o aa.tar.gz https://github.com/hirotomoki12345/nyan/raw/main/aa.tar.gz
-tar -zxvf aa.tar.gz
+#curl -o aa.zip https://github.com/hirotomoki12345/nyan/raw/main/aa.zip
+
 cd aa
 
 
