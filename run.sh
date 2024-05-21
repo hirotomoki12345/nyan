@@ -1,3 +1,5 @@
+sudo apt install mpg321
+
 curl -o nyancat https://raw.githubusercontent.com/hirotomoki12345/nyan/main/nyancat?token=GHSAT0AAAAAACSPMLHUJHYSJA25CZEVFXRMZSMJQBQ
 curl -o nyan https://raw.githubusercontent.com/hirotomoki12345/nyan/main/nyan?token=GHSAT0AAAAAACSPMLHU4BNNLAUR36JYXX66ZSMJQRA
 curl -o Nyanyanyanyanyanyanya.mp3 https://github.com/hirotomoki12345/nyan/raw/main/Nyanyanyanyanyanyanya.mp3
