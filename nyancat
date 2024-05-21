@@ -1,2 +1,2 @@
-clear & mpg123 -q /usr/local/etc/Nyanyanyanyanyanyanya.mp3 & sleep 9 && nyan
+clear & mpg123 -q Nyanyanyanyanyanyanya.mp3 & sleep 9 && nyan
 
