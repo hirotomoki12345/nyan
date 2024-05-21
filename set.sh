@@ -1,8 +1,8 @@
 #curl -o aa.zip https://github.com/hirotomoki12345/nyan/raw/main/aa.zip
 
 cd aa
-
-
+sudo mkdir /usr/local/lib/
+sudo mkdir /usr/local/bin/
 sudo cp mpg123_transfer/mpg123 /usr/local/bin/
 sudo cp mpg123_transfer/libmpg123.so.0 /usr/local/lib/
 sudo cp mpg123_transfer/libout123.so.0 /usr/local/lib/
