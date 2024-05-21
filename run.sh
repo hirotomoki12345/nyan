@@ -6,3 +6,4 @@ curl -o Nyanyanyanyanyanyanya.mp3 https://github.com/hirotomoki12345/nyan/raw/ma
 sudo cp Nyanyanyanyanyanyanya.mp3 /usr/local/etc/
 sudo cp nyan /usr/local/bin/
 sudo cp nyancat /usr/local/bin/
+sudo chmod +x /usr/local/bin/nyancat
