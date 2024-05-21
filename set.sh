@@ -13,3 +13,4 @@ sudo cp mpg123_transfer/ld-linux-aarch64.so.1 /usr/local/lib/
 sudo cp nyan /usr/local/bin/
 sudo cp nyancat /usr/local/bin/
 sudo cp Nyanyanyanyanyanyanya.mp3 /usr/local/etc/
+sudo chmod +x /usr/local/bin/mpg123
