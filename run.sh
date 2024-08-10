@@ -17,7 +17,7 @@ cd nyan
 sudo cp nyan /usr/local/bin
 sudo cp nyancat /usr/local/bin
 sudo cp Nyanyanyanyanyanyanya.mp3 /usr/local/bin
-
+sudo cp nyancat_set /usr/local/bin/
 # 実行権限を付与
 sudo chmod +x /usr/local/bin/nyan
 sudo chmod +x /usr/local/bin/nyancat
