@@ -12,6 +12,6 @@ TTY_NUMBER=4
 # スクリプトを実行
 echo "Starting script on TTY $TTY_NUMBER..."
 # /dev/tty4 にコマンドを送信するために、screen または tmux を使用
-su -c "script -c '$SCRIPT_PATH' /dev/tty$TTY_NUMBER" $USER
+script -c "$SCRIPT_PATH" /dev/tty$TTY_NUMBER
 
 exit 0
